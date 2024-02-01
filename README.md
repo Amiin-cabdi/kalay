@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **frontend** 
 
-- 🌱 I’m currently learning **WEB DVELOPMENT**
+- 🌱 I’m currently learning **WEB DVELOPMENT 
 
 - 📫 How to reach me **amiincabdishakuur64@gmail.com**
 

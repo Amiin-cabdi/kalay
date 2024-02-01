@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammo-amiin&label=Profile%20views&color=0e75b6&style=flat" alt="ammo-amiin" /> </p>
 
-- 🔭 I’m currently working on **frontend** 
+- 🔭 I’m currently working on **frontend**
 
-- 🌱 I’m currently learning **WEB DVELOPMENT 
+- 🌱 I’m currently learning **WEB DVELOPMENT**
 
 - 📫 How to reach me **amiincabdishakuur64@gmail.com**
 
